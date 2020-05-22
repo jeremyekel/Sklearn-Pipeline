@@ -1,1 +1,2 @@
-# Pipelines-Using-Sklearn
+# Sklearn Pipeline
+Performing sklearn pipeline
